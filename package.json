@@ -12,6 +12,7 @@
   "dependencies": {
     "bootstrap": "^5.3.8",
     "jquery": "^3.7.1",
-    "less": "^4.4.2"
+    "less": "^4.4.2",
+    "zepto": "^1.2.0"
   }
 }
